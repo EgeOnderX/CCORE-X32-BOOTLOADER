@@ -55,8 +55,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-The latest version README text of ESPY32 (CCORE will come):
-# Espy32 (v1.0.7)
+
+---
+
+# The latest version README text of ESPY32 (CCORE will come):
+## Espy32 (v1.0.7)
 An operating system fully based on MicroPython for ESP32. It can run Python scripts, load drivers, write programs in its built-in Python interpreter, and even play basic music.
 
 **Developed from scratch by Ege.**
